@@ -1,0 +1,17 @@
+img{
+	height: 150px;
+	width: 150px;
+}
+
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	background-color: #e9f9e7;
+
+	color: black;
+
+	border: 2px #000 solid;
+	margin: 10px auto;
+}
